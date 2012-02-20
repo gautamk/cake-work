@@ -1,0 +1,2 @@
+1329749435
+a:2:{s:4:"name";a:7:{i:-175838855;s:6:"`cake`";i:1722309215;s:8:"`logins`";i:253766798;s:12:"`Login`.`id`";i:388486338;s:15:"`Login`.`email`";i:-1698343632;s:18:"`Login`.`password`";i:572105076;s:7:"`Login`";i:-1684970019;s:7:"`count`";}s:6:"fields";a:2:{s:32:"f8a9b5782c496cb67ce5bfc140d28b05";a:3:{i:0;s:12:"`Login`.`id`";i:1;s:15:"`Login`.`email`";i:2;s:18:"`Login`.`password`";}s:32:"ce73d15be297ef3d972fa726956f3a85";a:1:{i:0;s:19:"COUNT(*) AS `count`";}}}
