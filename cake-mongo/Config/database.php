@@ -2,11 +2,12 @@
 class DATABASE_CONFIG {
 
 	public $default = array(
-		'datasource' => 'Database/Mysql',
-		'persistent' => false,
+		'datasource' => 'Mongodb.MongodbSource',
+		'persistent' => 'true',
+		'port' => 27017,
 		'host' => 'localhost',
-		'login' => 'cake',
-		'password' => 'cake',
+		// 'login' => 'cake',
+		// 'password' => 'cake',
 		'database' => 'cake',
 	);
 }
