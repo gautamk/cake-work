@@ -1,4 +1,5 @@
 <?php 
-class Post extends CakeDocument {
 
+class Post extends CakeDocument {
+	
 }
