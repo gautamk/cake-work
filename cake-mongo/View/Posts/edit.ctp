@@ -3,9 +3,16 @@
 	<fieldset>
  		<legend><?php __('Edit Post');?></legend>
 	<?php
-		echo $this->Form->input('title',array('value'=>$edit_data['Post']['title']));
-		echo $this->Form->input('body',array('value'=>$edit_data['Post']['body']));
+		echo $this->Form->hidden('_id');
+		echo $this->Form->input('title');
+		echo $this->Form->input('body');
+		
 	?>
 	</fieldset>
-<?php echo $this->Form->end('Save Post');?>
+<?php echo $this->Form->end('Submit');?>
+</div>
+<div class="actions">
+	<ul>
+		<li><?php echo $this->Html->link(__('List Posts', true), array('action'=>'index'));?></li>
+	</ul>
 </div>

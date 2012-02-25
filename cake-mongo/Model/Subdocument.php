@@ -1,13 +1,14 @@
 <?php
-
-class Post extends AppModel {
+class Subdocument extends AppModel {
 	public $primaryKey = '_id';
-	//var $useDbConfig = 'mongo';
 /*
 	var $mongoSchema = array(
 			'title' => array('type'=>'string'),
 			'body'=>array('type'=>'string'),
-			'hoge'=>array('type'=>'string'),
+			'subdoc'=>array(
+				'name' => array('type'=>'string'),
+				'age' => array('type'=>'integer')
+			),
 			'created'=>array('type'=>'datetime'),
 			'modified'=>array('type'=>'datetime'),
 			);

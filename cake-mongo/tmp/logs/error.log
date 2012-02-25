@@ -84,3 +84,22 @@
 #1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
 #2 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #3 {main}
+2012-02-25 13:07:01 Error: [MissingDatasourceException] Datasource class MongodbSource could not be found.
+#0 /opt/lampp/lib/php/Cake/Model/ConnectionManager.php(97): ConnectionManager::loadDataSource('default')
+#1 /opt/lampp/lib/php/Cake/Model/Model.php(3241): ConnectionManager::getDataSource('default')
+#2 /opt/lampp/lib/php/Cake/Model/Model.php(1030): Model->setDataSource('default')
+#3 /opt/lampp/lib/php/Cake/Model/Model.php(3265): Model->setSource('posts')
+#4 /opt/lampp/lib/php/Cake/Model/Model.php(2483): Model->getDataSource()
+#5 /home/gautam/public_html/cake-work/cake-mongo/Controller/PostsController.php(12): Model->find('all', Array)
+#6 [internal function]: PostsController->index()
+#7 /opt/lampp/lib/php/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#8 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#9 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#10 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2012-02-25 13:57:04 Error: [MissingControllerException] Controller class DeleteallController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-25 13:57:15 Error: [MissingControllerException] Controller class DeleteallController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

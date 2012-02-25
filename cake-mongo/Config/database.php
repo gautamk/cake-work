@@ -3,7 +3,7 @@ class DATABASE_CONFIG {
 
 	public $default = array(
 		'datasource' => 'Mongodb.MongodbSource',
-		'persistent' => 'true',
+		'persistent' => 'false',
 		'port' => 27017,
 		'host' => 'localhost',
 		// 'login' => 'cake',
