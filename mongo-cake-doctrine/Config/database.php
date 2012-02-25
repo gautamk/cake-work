@@ -2,11 +2,8 @@
 class DATABASE_CONFIG {
 
 	public $default = array(
-		'datasource' => 'Database/Mysql',
-		'persistent' => false,
-		'host' => 'localhost',
-		'login' => 'root',
-		'password' => 'gautham3121990',
-		'database' => 'cake',
+    'datasource' => 'MongoCake.CakeMongoSource',
+    'server' => 'localhost', // Optional
+    'database' => 'cake', // Database to use
 	);
 }
