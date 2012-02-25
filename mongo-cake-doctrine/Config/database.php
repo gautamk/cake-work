@@ -5,5 +5,6 @@ class DATABASE_CONFIG {
     'datasource' => 'MongoCake.CakeMongoSource',
     'server' => 'localhost', // Optional
     'database' => 'cake', // Database to use
+    'port'=>27017,
 	);
 }
