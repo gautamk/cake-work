@@ -2,7 +2,7 @@
 <iframe src="http://cakephp.org/bake-banner" width="830" height="160" style="overflow:hidden; border:none;">
 	<p>For updates and important announcements, visit http://cakefest.org</p>
 </iframe>
-<h2>Sweet, "Cake-mongo" got Baked by CakePHP!</h2>
+<h2>Sweet, "Mongo-cake-doctrine" got Baked by CakePHP!</h2>
 
 <?php
 App::uses('Debugger', 'Utility');
