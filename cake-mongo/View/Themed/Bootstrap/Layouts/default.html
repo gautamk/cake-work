@@ -13,10 +13,10 @@
             </ul>
           </div><!--/.well -->
         </div><!--/span-->
-    <div class="span9">
-      <div class="row-fluid">
         <?php if($results): ?>
-
+        <div class="span9">
+          
+          <div class="row-fluid">
             <div class="span4">
               <h2>Posts</h2>
               <p>
@@ -43,18 +43,17 @@
               </table>
               </p>
             </div><!--/span-->
-
+          </div><!--/row-->
+        </div><!--/span-->
         <?php else: ?>
         <div class="hero-unit">
             <h1>No posts available !</h1>
             <p>There are no posts available on the database. Try adding one .</p>
             <p>
-              <?php echo $this->Html->link('Add Post', array('action'=>'add'),array('class'=>'btn btn-primary btn-large')); ?>
+              <?php echo $this->Html->link('Add data', array('action'=>'add'),array('class'=>'btn btn-primary btn-large')); ?>
             </p>
         </div>
 
         <?php endif; ?>
-  	</div><!--/row-->
-	</div><!--/span-->
 
 </div><!--/row-->
