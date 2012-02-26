@@ -7,8 +7,13 @@
  * @subpackage    mongodb.samples.controllers
  */
 class PostsController extends AppController {
+	public function beforeRender() {
+        $this->viewClass = 'Theme';
+        $this->theme = 'Bootstrap';
+    }
 
-
+ 
+ public $helpers = array('Form', 'Html', 'Js', 'Time');
 /**
  * name property
  *
