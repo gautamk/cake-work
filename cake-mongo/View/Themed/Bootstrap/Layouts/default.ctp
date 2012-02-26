@@ -31,9 +31,9 @@
 	?>
 </head>
 <body>
-	<div id="container">
-		<div id="header">
-			<h1><?php echo $this->Html->link(__('CakePHP: the rapid development php framework'), 'http://cakephp.org'); ?></h1>
+	<div id="container" style="text-align:center;">
+		<div id="header span12 " >
+			<h1><?php echo $title_for_layout; ?></h1>
 		</div>
 		<div id="content">
 
@@ -59,7 +59,7 @@
 	?>
 	<script type="text/javascript">
 		$(document).ready(function(){
-			$('.cake-sql-log').addClass('table-striped table-bordered table-condensed');
+			
 		});
 	</script>
 </body>
