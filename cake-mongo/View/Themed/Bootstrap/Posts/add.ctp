@@ -2,7 +2,7 @@
         <div class="span3">
           <div class="well sidebar-nav">
             <ul class="nav nav-list">
-              <li class="nav-header">Sidebar</li>
+              <li class="nav-header">Actions</li>
               <li >
                 <?php 
                     echo $this->Html->link('Index', 
@@ -29,8 +29,8 @@
               <fieldset>
                 <legend><?php __('Add Post');?></legend>
               <?php
-                echo $this->Form->input('title');
-                echo $this->Form->input('body');
+                echo $this->Form->input('title',array('class'=>'span7'));
+                echo $this->Form->input('body',array('class'=>'span7'));
               ?>
               </fieldset>
               <input type="submit" value="Add" class="span2 btn btn-success btn-large ">

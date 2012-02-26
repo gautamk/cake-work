@@ -621,3 +621,331 @@
 2012-02-26 15:54:29 Error: [MissingControllerException] Controller class ImagesController could not be found.
 #0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2012-02-26 16:05:57 Error: [MissingActionException] Action PostsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-02-26 16:06:39 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:06:48 Error: [MissingActionException] Action PostsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-02-26 16:06:50 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:06:51 Error: [MissingActionException] Action PostsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-02-26 16:07:24 Error: [MissingActionException] Action PostsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-02-26 16:07:25 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:07:34 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:07:35 Error: [MissingActionException] Action PostsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-02-26 16:07:36 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:07:41 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:07:44 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:07:45 Error: [MissingActionException] Action PostsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-02-26 16:08:19 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:08:44 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:09:24 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:09:36 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:09:45 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:09:52 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:10:31 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:10:37 Error: [MissingActionException] Action PostsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-02-26 16:10:38 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:10:46 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:10:47 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:10:47 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:10:52 Error: [MissingActionException] Action PostsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-02-26 16:11:11 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:11:41 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:11:54 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:11:57 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:12:21 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:12:31 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:13:06 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:13:08 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:13:08 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:13:09 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:13:11 Error: [MissingActionException] Action PostsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-02-26 16:13:13 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:18:33 Error: [MissingActionException] Action PostsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-02-26 16:18:40 Error: [MissingActionException] Action PostsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-02-26 16:20:24 Error: [MissingActionException] Action PostsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-02-26 16:20:39 Error: [MissingActionException] Action PostsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-02-26 16:20:47 Error: [MissingActionException] Action PostsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-02-26 16:21:18 Error: [MissingActionException] Action PostsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-02-26 16:21:41 Error: [MissingActionException] Action PostsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-02-26 16:21:43 Error: [MissingActionException] Action PostsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-02-26 16:21:45 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:21:49 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:21:52 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:21:56 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:21:59 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:22:20 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:22:21 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:24:08 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:24:08 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:24:10 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:27:20 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:27:20 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:27:23 Error: [MissingActionException] Action PostsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-02-26 16:27:24 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:27:25 Error: [MissingActionException] Action PostsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-02-26 16:27:26 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:27:28 Error: [MissingActionException] Action PostsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-02-26 16:27:29 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:27:30 Error: [MissingActionException] Action PostsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-02-26 16:27:32 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:27:36 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:27:39 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:27:44 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:27:47 Error: [MissingActionException] Action PostsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-02-26 16:28:27 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:29:52 Error: [MissingActionException] Action PostsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-02-26 16:30:03 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:30:35 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:30:39 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:30:42 Error: [MissingActionException] Action PostsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-02-26 16:30:42 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:30:43 Error: [MissingActionException] Action PostsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-02-26 16:30:44 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:30:45 Error: [MissingActionException] Action PostsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-02-26 16:30:47 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:30:48 Error: [MissingActionException] Action PostsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-02-26 16:30:49 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:30:50 Error: [MissingActionException] Action PostsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-02-26 16:30:50 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:30:54 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:30:57 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:31:11 Error: [MissingActionException] Action PostsController::images() could not be found.
+#0 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/lib/php/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-02-26 16:31:50 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-26 16:38:13 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /home/gautam/public_html/cake-work/cake-mongo/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

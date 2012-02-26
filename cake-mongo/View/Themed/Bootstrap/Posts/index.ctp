@@ -2,7 +2,7 @@
         <div class="span3">
           <div class="well sidebar-nav">
             <ul class="nav nav-list">
-              <li class="nav-header">Sidebar</li>
+              <li class="nav-header">Actions</li>
               <li class="active"><a href="#">Index</a></li>
               <li><?php 
                     echo $this->Html->link('Add data', 
@@ -20,7 +20,7 @@
             <div class="span4">
               <h2>Posts</h2>
               <p>
-                <table class="table-striped table-bordered table-condensed">
+                <table class="span9 table-striped table-bordered table-condensed">
                   <tr>
                     <th>_id</th>
                     <th>Title</th>
